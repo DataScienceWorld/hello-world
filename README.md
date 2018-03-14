@@ -1,3 +1,2 @@
 # hello-world
-prova
-§CIAO
+hello-world
